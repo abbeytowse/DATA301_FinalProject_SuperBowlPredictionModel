@@ -2,8 +2,9 @@
 
 ## Purpose of each file: 
 
-### 1) data_collection_&_cleaning.py: 
+### 1) *data_collection_&_cleaning.py: 
 #### The purpose of this file is to create the 'football.csv' file included in this repository. This file is created through a series of webscraping and data cleaning. 
+#####*This file takes a long time to run due to the amount of data being scrapped and cleaned. 
 
 ### 2) data_exploration.py:
 #### The purpose of this file is to create visualizations to start to determine which NFL stats have an influence on whether or not a team wins the Super Bowl.
